@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Block Promoted Tweets
 // @author       Daniel Harris @thewebauthor
-// @match http://twitter.com/*
-// @match https://twitter.com/*
+// @match http://twitter.com/home
+// @match https://twitter.com/home
 // @require http://code.jquery.com/jquery-3.3.1.min.js
 // ==/UserScript==
 
