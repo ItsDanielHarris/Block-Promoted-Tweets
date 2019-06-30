@@ -14,6 +14,8 @@
                 $("span").each(function(i, span) {
                     if ($(span).text().indexOf("Promoted") >= 0) {
                         $(span).parent().parent().parent().parent().parent().parent().parent().parent().hide();
+                        $("div[aria-label='Timeline: Trending now'").show();
+                        $("div", "div[aria-label='Timeline: Trending now'").show();
                     }
                 });
             }, 500);
