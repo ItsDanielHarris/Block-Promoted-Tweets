@@ -1,5 +1,5 @@
 # Block Promoted Tweets
-By: Daniel Harris @thewebauthor
+By: Daniel Harris @ItsDanielHarris
 
 This script blocks promoted tweets using the TamperMonkey extension in Google Chrome and Firefox. Works with the new Twitter UI.
 
@@ -8,6 +8,6 @@ This script blocks promoted tweets using the TamperMonkey extension in Google Ch
    <br><strong>Firefox:</strong> https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
    
 2. Add a new userscript to TamperMonkey. Copy and paste the block.js script to it.
-   https://raw.githubusercontent.com/TheWebAuthor/Block-Promoted-Tweets/master/block.js?token=AAMIAWWPUVXWAYKGIW7LCFTBJOHCK
+   https://raw.githubusercontent.com/ItsDanielHarris/Block-Promoted-Tweets/master/block.js?token=AAMIAWWPUVXWAYKGIW7LCFTBJOHCK
    
 3. Refresh Twitter and enjoy!
